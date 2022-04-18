@@ -1,0 +1,5 @@
+package jgv
+
+object news {
+  
+}
